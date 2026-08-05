@@ -1,0 +1,24 @@
+2026-08-05 12:34:53,957 [INFO] Received file upload filename=CS_NMI.html
+2026-08-05 12:34:53,957 [INFO] Starting conversion work_id=259badac301543dd9fa93199a81da11a out_stem=CS_NMI size_bytes=26489
+2026-08-05 12:36:22,974 [INFO] Received file upload filename=CS_NMI.html
+2026-08-05 12:36:22,974 [INFO] Starting conversion work_id=e3902746de3c47499e9bbf32af8ddd98 out_stem=CS_NMI size_bytes=26489
+2026-08-05 12:42:54,590 [INFO] Received file upload filename=CS_NMI.html
+2026-08-05 12:42:54,590 [INFO] Starting conversion work_id=4dd15506056844cbac6d0987bd08c7fb out_stem=CS_NMI size_bytes=26489
+2026-08-05 12:50:27,069 [INFO] Received file upload filename=CS_NMI.html
+2026-08-05 12:50:27,078 [INFO] Starting conversion work_id=4722a5cb4c224707a57fc2476b45bc85 out_stem=CS_NMI size_bytes=26489
+2026-08-05 12:55:19,065 [INFO] Received file upload filename=CS_NMI.html
+2026-08-05 12:55:19,065 [INFO] Starting conversion work_id=a209cf1f57a04e4db7fbb3aa2e6612c1 out_stem=CS_NMI size_bytes=26489
+2026-08-05 12:55:31,166 [INFO] Rendered PDF for source=file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmp86brkh76/a209cf1f57a04e4db7fbb3aa2e6612c1.html -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\tmp86brkh76\a209cf1f57a04e4db7fbb3aa2e6612c1.pdf
+2026-08-05 12:55:31,215 [INFO] Conversion complete work_id=a209cf1f57a04e4db7fbb3aa2e6612c1 -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\a209cf1f57a04e4db7fbb3aa2e6612c1.pdf
+2026-08-05 13:33:44,542 [INFO] Received raw HTML via multipart form field
+2026-08-05 13:33:44,542 [INFO] Starting conversion work_id=fd15e2582d764b17af37b83001ddf5b2 out_stem=report size_bytes=352692
+2026-08-05 13:33:57,275 [INFO] Rendered PDF for source=file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmpi_kjibet/fd15e2582d764b17af37b83001ddf5b2.html -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\tmpi_kjibet\fd15e2582d764b17af37b83001ddf5b2.pdf
+2026-08-05 13:33:57,314 [INFO] Conversion complete work_id=fd15e2582d764b17af37b83001ddf5b2 -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\fd15e2582d764b17af37b83001ddf5b2.pdf
+2026-08-05 13:34:53,158 [INFO] Received file upload filename=weekly2_content_release_impact_report_CS_v2.html
+2026-08-05 13:34:53,161 [INFO] Starting conversion work_id=58b2f4bfb23341ba9124b7b803b241b0 out_stem=weekly2_content_release_impact_report_CS_v2 size_bytes=352692
+2026-08-05 13:35:08,804 [INFO] Rendered PDF for source=file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmpsbnzelau/58b2f4bfb23341ba9124b7b803b241b0.html -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\tmpsbnzelau\58b2f4bfb23341ba9124b7b803b241b0.pdf
+2026-08-05 13:35:08,841 [INFO] Conversion complete work_id=58b2f4bfb23341ba9124b7b803b241b0 -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\58b2f4bfb23341ba9124b7b803b241b0.pdf
+2026-08-05 13:57:51,846 [INFO] Received file upload filename=weekly2_content_release_impact_report_upg_v2.html
+2026-08-05 13:57:51,846 [INFO] Starting conversion work_id=ee049ecef68e454ea14be1dc5dc215b3 out_stem=weekly2_content_release_impact_report_upg_v2 size_bytes=339709
+2026-08-05 13:58:07,661 [INFO] Rendered PDF for source=file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmp3fk5a5f9/ee049ecef68e454ea14be1dc5dc215b3.html -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\tmp3fk5a5f9\ee049ecef68e454ea14be1dc5dc215b3.pdf
+2026-08-05 13:58:07,711 [INFO] Conversion complete work_id=ee049ecef68e454ea14be1dc5dc215b3 -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\ee049ecef68e454ea14be1dc5dc215b3.pdf
