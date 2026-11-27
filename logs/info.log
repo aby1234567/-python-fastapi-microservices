@@ -22,3 +22,7 @@
 2026-08-05 13:57:51,846 [INFO] Starting conversion work_id=ee049ecef68e454ea14be1dc5dc215b3 out_stem=weekly2_content_release_impact_report_upg_v2 size_bytes=339709
 2026-08-05 13:58:07,661 [INFO] Rendered PDF for source=file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmp3fk5a5f9/ee049ecef68e454ea14be1dc5dc215b3.html -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\tmp3fk5a5f9\ee049ecef68e454ea14be1dc5dc215b3.pdf
 2026-08-05 13:58:07,711 [INFO] Conversion complete work_id=ee049ecef68e454ea14be1dc5dc215b3 -> C:\Users\ABYABR~1.CHA\AppData\Local\Temp\ee049ecef68e454ea14be1dc5dc215b3.pdf
+2026-09-24 12:45:02,668 [INFO] Received file upload filename=workforce_attendance_report.html
+2026-09-24 12:45:02,670 [INFO] Starting conversion work_id=2c4199424a7f4ae3837008b1896a7b28 out_stem=workforce_attendance_report size_bytes=26177
+2026-09-24 12:45:46,422 [INFO] Rendered PDF for source=file:///C:/Users/CALAP110/AppData/Local/Temp/tmp1u6iib46/2c4199424a7f4ae3837008b1896a7b28.html -> C:\Users\CALAP110\AppData\Local\Temp\tmp1u6iib46\2c4199424a7f4ae3837008b1896a7b28.pdf
+2026-09-24 12:45:46,458 [INFO] Conversion complete work_id=2c4199424a7f4ae3837008b1896a7b28 -> C:\Users\CALAP110\AppData\Local\Temp\2c4199424a7f4ae3837008b1896a7b28.pdf

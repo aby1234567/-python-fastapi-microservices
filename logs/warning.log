@@ -2,3 +2,4 @@
 2026-08-05 12:34:42,378 [WARNING] Rejected /convert request: both 'file' and 'html' provided
 2026-08-05 12:36:04,635 [WARNING] Rejected /convert request: both 'file' and 'html' provided
 2026-08-05 12:40:00,143 [WARNING] Rejected request: invalid or missing bearer token
+2026-09-24 12:44:55,073 [WARNING] Rejected /convert request: both 'file' and 'html' provided

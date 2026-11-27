@@ -27,7 +27,7 @@ async def custom_swagger_ui_html():
     return get_swagger_ui_html(
         openapi_url=f"{app.root_path}{app.openapi_url}",
         title="R7 fastapi-microservices",
-        swagger_favicon_url="https://www.rubyseven.in/wp-content/uploads/2025/08/cropped-Logo-1.png",
+        # swagger_favicon_url="https://www.rubyseven.in/wp-content/uploads/2025/08/cropped-Logo-1.png",
     )
 
 app.add_api_route("/health", f.health, methods=["GET"],response_model=f.HealthResponse, tags=["pdf"])

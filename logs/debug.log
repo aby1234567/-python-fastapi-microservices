@@ -11,3 +11,5 @@
 2026-08-05 13:35:00,151 [DEBUG] Measured content dimensions for file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmpsbnzelau/58b2f4bfb23341ba9124b7b803b241b0.html: {'width': 1280, 'height': 6741}
 2026-08-05 13:57:52,020 [DEBUG] Launching browser for source=file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmp3fk5a5f9/ee049ecef68e454ea14be1dc5dc215b3.html viewport={'width': 1280, 'height': 900}
 2026-08-05 13:57:59,044 [DEBUG] Measured content dimensions for file:///C:/Users/aby.abraham.CHAYOWO/AppData/Local/Temp/tmp3fk5a5f9/ee049ecef68e454ea14be1dc5dc215b3.html: {'width': 1280, 'height': 6277}
+2026-09-24 12:45:02,691 [DEBUG] Launching browser for source=file:///C:/Users/CALAP110/AppData/Local/Temp/tmp1u6iib46/2c4199424a7f4ae3837008b1896a7b28.html viewport={'width': 1280, 'height': 900}
+2026-09-24 12:45:44,482 [DEBUG] Measured content dimensions for file:///C:/Users/CALAP110/AppData/Local/Temp/tmp1u6iib46/2c4199424a7f4ae3837008b1896a7b28.html: {'width': 1280, 'height': 4185}
